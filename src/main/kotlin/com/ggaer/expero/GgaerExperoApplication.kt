@@ -1,4 +1,4 @@
-package com.ggaer.ggaerexpero
+package com.ggaer.expero
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
