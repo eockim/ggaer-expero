@@ -1,2 +1,15 @@
 server:
   port: 28080
+spring:
+  config:
+    activate:
+      on-profile: dev
+  r2dbc:
+    pool:
+      max-size: 100
+      validation-query: SELECT 1
+      enabled: true
+
+logging:
+  level:
+    root: debug

@@ -1,4 +1,4 @@
-package com.ggaer.ggaerexpero
+package com.ggaer.expero
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
